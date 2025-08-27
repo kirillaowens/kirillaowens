@@ -29,7 +29,7 @@
 ### 📈 Stats & Activity
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillaowens&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirillaowens&show_icons=true&theme=tokyonight)
-![wakatime](https://wakatime.com/badge/user/1edd7940-aa59-4ec8-8912-6cdd29b48875.svg)(https://wakatime.com/@1edd7940-aa59-4ec8-8912-6cdd29b48875)
+[![wakatime](https://wakatime.com/badge/user/1edd7940-aa59-4ec8-8912-6cdd29b48875.svg)](https://wakatime.com/@1edd7940-aa59-4ec8-8912-6cdd29b48875)
 
 ---
 
