@@ -14,8 +14,7 @@
 ### Tech Stack
 - **Frontend:** React, Redux Toolkit, JavaScript (ES6+), TypeScript  
 - **Styling:** CSS, Styled-components, Material UI  
-- **Other:** REST API, Git, Webpack, Vite  
-- 🗄**Backend basics:** Node.js, Express
+- **Other:** REST API, Git, Webpack  
 
 ---
 
