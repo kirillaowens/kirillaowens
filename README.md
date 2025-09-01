@@ -20,7 +20,7 @@
 
 ### Projects
 - **Clothing Store Website** — responsive e-commerce frontend  
-- **Forum App** — posts, comments & users with normalized state (Redux Toolkit)  
+- **Document App** — add, delete, download, rename documents from DB 
 - **Dashboard UI** — interactive charts & components using Recharts + MUI  
 
 ---
