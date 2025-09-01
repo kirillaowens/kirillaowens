@@ -12,7 +12,7 @@
 ---
 
 ### Tech Stack
-- **Frontend:** React, Redux Toolkit, JavaScript (ES6+), TypeScript  
+- **Frontend:** React, Redux Toolkit, JavaScript (ES6+), TypeScript, React Router
 - **Styling:** CSS, Styled-components, Material UI  
 - **Other:** REST API, Git, Webpack  
 
