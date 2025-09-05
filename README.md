@@ -21,7 +21,6 @@
 ### Projects
 - **Clothing Store Website** — responsive e-commerce frontend  
 - **Document App** — add, delete, download, rename documents from DB 
-- **Dashboard UI** — interactive charts & components using Recharts + MUI  
 
 ---
 
