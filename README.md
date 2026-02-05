@@ -18,13 +18,6 @@
 
 ---
 
-### Stats
-
-[![wakatime](https://wakatime.com/badge/user/1edd7940-aa59-4ec8-8912-6cdd29b48875.svg)](https://wakatime.com/@1edd7940-aa59-4ec8-8912-6cdd29b48875)
-
-
----
-
 ### How to reach me
 - Email: *workmailk3@gmail.com*
 - Telegram: @kirillachipsy
