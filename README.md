@@ -1,6 +1,6 @@
 ## Hi, I'm Kirill 👋
 
-### React Developer | Frontend Enthusiast  
+### React Developer
 
 ---
 
@@ -14,7 +14,7 @@
 ### Tech Stack
 - **Frontend:** React, Redux Toolkit, JavaScript (ES6+), TypeScript, React Router
 - **Styling:** CSS, Styled-components, Material UI  
-- **Other:** REST API, Git, Webpack  
+- **Other:** REST API, Git, Webpack, Vite
 
 ---
 
